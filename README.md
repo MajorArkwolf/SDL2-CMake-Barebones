@@ -2,7 +2,7 @@
   <br>
   <img src="https://i.imgur.com/UQ4DFMq.png" alt="sdl2-logo" width="200"></a>
   <br>
-    CMake SDL2 Example
+    C++ CMake SDL2 Example
   <br>
 </h1>
 
